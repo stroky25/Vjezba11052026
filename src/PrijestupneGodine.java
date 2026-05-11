@@ -22,6 +22,8 @@ public class PrijestupneGodine {
                 }
         }
 
+        System.out.println (" ");
+        System.out.println ("Popis svih unesenh godina: ");
         for (int i: godine) {
             System.out.println (i);
         }
